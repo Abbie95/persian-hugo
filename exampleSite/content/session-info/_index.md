@@ -1,6 +1,4 @@
 ---
-title: Session Info
-description: Shoots & Pricing
 image: ''
 date: ''
 author: ''
@@ -12,8 +10,10 @@ menu:
   main:
     name: Info
     weight: 2
-
+title: Session Info
+description: Shoots & Pricing
 ---
+
 **PORTRAIT SHOOTS**
 
 All shoots include:
@@ -30,9 +30,9 @@ All shoots include:
 
 <br>
 
-**2023 Portrait Packages**
+**2024 Portrait Packages**
 
-**$250**
+**$325**
 
 30 minutes of photography
 
@@ -42,7 +42,7 @@ All shoots include:
 
 A minimum of 25 images
 
-**$450**
+**$550**
 
 1 hour of photography
 
@@ -52,7 +52,7 @@ A minimum of 25 images
 
 A minimum of 45 images
 
-**$925**
+**$1199**
 
 Up to 3 hours of photography
 
@@ -74,7 +74,7 @@ At this time I only offer wedding packages for intimate weddings and elopements.
 
 (Usually up to 50 guests)
 
-Packages are customized to each couple and wedding, but start at $1050 and include a minimum of 3 hours of shooting, a consultation, online gallery of edited image, plus a discount on an engagment session. Please contact me for a customized quote!
+Packages are customized to each couple and wedding, but start at $1250 and include a minimum of 3 hours of shooting, a consultation, online gallery of edited images, plus a discount on an engagment session. Please contact me for a customized quote!
 
 <br>
 
@@ -95,13 +95,13 @@ All shoots include:
 
 <br>
 
-**2023 Lifestyle Branding Options:**
+**2024 Lifestyle Branding Options:**
 
 **Just the Basics:**
 
 Perfect for if you’re just needing some classic portraits/headshots or some basic product images.
 
-$250
+$325
 
 30 minute session
 
@@ -111,7 +111,7 @@ $250
 
 Perfect for batch shooting content if you're a creator or blogger, if you need a mix of portraits and products, or if you want to switch between several locations and want to allow for options! I also offer discounts for scheduled reccuring shoots if you need new images on a semi-regular basis.
 
-$325 per hour ($50 deposit to hold your session date and time.  The rest is billed after the shoot based off amount of time spent photographing, and will be due before receiving your gallery.)
+$399 per hour ($75 deposit to hold your session date and time.  The rest is billed after the shoot based off amount of time spent photographing, and will be due before receiving your gallery.)
 
 This allows for multiple locations if desired, multiple outfits and setups, whatever you need!
 
@@ -121,7 +121,7 @@ A minimum of 50 images per hour.
 
 Designed for restaurant and small business owners, who want to showcase their products on their website or social media. Classic product photography on a simple background, or a specialized setup based off your product and brand.
 
-Sessions are $350 for one hour, and $299 an hour for any additional time after that.
+Sessions are $450 for one hour, and $325 an hour for any additional time after that.
 
 A minimum of 35 images per hour
 
@@ -131,6 +131,6 @@ Typically one location only (some exceptions for product photography)
 
 If you want memories captured for your special event without having to miss out on those moments yourself, that's where I come in! Perfect for baby/bridal showers, networking events, new business launches, girls trips, etc!
 
-This is based soley off an hourly rate of $325 an hour, with a discount available for anything 3+ hours.
+This is based soley off an hourly rate of $399 an hour, with a discount available for anything 3+ hours.
 
 (Some sizing and location limitations apply. Please include details of your event in your inquiry for the most time efficient quote!)
