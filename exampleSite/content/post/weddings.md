@@ -1,15 +1,15 @@
 +++
 author = ""
 avatar = ""
-categories = []
+categories = [ ]
 date = ""
+tags = [ ]
+title = "INTIMATE WEDDINGS"
 description = "intimate weddings and elopements"
 image = "/images/sparkler-exit-intimate-wedding-south-florida-photographer.jpg"
-tags = []
-title = "INTIMATE WEDDINGS"
-
 +++
-I offer wedding coverage for smaller, intimate weddings (typically meaning a smaller guest number) and elopements currently.  Coverage begins at $849 for 3 hours of shooting, and all packages are customized around your wedding and needs!
+
+I offer wedding coverage for smaller, intimate weddings (typically meaning a smaller guest number) and elopements currently.  Coverage begins at $1650 for 4 hours of shooting, and I also offer an hourly rate for elopements. All packages are customized around your wedding and needs!
 
 ![](/images/florida-elopement-photographer.jpg)
 
