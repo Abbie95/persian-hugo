@@ -1,17 +1,17 @@
 +++
 author = ""
 avatar = ""
-categories = []
+categories = [ ]
 date = ""
+tags = [ ]
+title = "SENIORS"
 description = "senior-photographer-tampa"
 image = "/images/university-south-tampa-florida-senior-tampa-fort-myers.jpg"
-tags = []
-title = "SENIORS"
-
 +++
+
 My senior sessions are customized to you and your style. This includes finding the perfect location and light to match not just your outfit and style, but your personality too!
 
-Sessions begin at $175.  For more details on what they include, see my info page.
+Sessions begin at $350.  For more details on what they include, see my info page.
 
 ![](/images/florida-fort-myers-naples-bonita-springs-photographer.jpg)
 
