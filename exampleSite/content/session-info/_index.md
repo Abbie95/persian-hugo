@@ -30,7 +30,7 @@ All shoots include:
 
 <br>
 
-**2025 Portrait Packages**
+**2026 Portrait Packages**
 
 **$350**
 
@@ -38,7 +38,7 @@ All shoots include:
 
 1 location
 
-1 outfit 
+1 outfit
 
 You receive a minimum of 30 edited images
 
@@ -101,7 +101,7 @@ All shoots include:
 
 Perfect for if you’re just needing some classic portraits/headshots or some basic product images.
 
-$325
+$350
 
 30 minute session
 
