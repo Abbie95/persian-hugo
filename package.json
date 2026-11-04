@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/Abbie95/persian-hugo#readme",
   "dependencies": {
-    "tinacms": "^2.2.9"
+    "tinacms": "2.2.9"
   },
   "devDependencies": {
-    "@tinacms/cli": "^1.6.9"
+    "@tinacms/cli": "1.6.9"
   }
 }
