@@ -95,11 +95,11 @@ All shoots include:
 
 <br>
 
-**2024 Lifestyle Branding Options:**
+**2026 Lifestyle Branding Options:**
 
 **Just the Basics:**
 
-Perfect for if you’re just needing some classic portraits/headshots or some basic product images.
+Perfect for if you’re just needing some classic portraits/headshots or some basic product or retail images.
 
 $350
 
