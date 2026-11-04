@@ -36,7 +36,7 @@ All of my shoots come with a consultation, and this starts before even booking. 
 
 **-How soon do I need to pay for my shoot?**
 
-I require a nonrefundable retainer fee as soon as we confirm a session date and time. This guarantees your date for you and is 30% of the session cost, unless state otherwise. (This is a part of the session prices listed, not in addition to). Without this retainer, I cannot guarantee that session will still be available for that time slot later. The rest of the session cost is due in full by the day before the session, but I do offer payment plans if desired. Payment options include Venmo, Paypal, cash or paying with card via a digital invoice I send you.
+I require a nonrefundable retainer fee as soon as we confirm a session date and time. This guarantees your date for you and is 30% of the session cost, unless stated otherwise. (This is a part of the session prices listed, not in addition to). Without this retainer, I cannot guarantee that session will still be available for that time slot later. The rest of the session cost is due in full by the day before the session, but I do offer payment plans if desired. Payment options include Venmo, Paypal, cash or paying with card via a digital invoice I send you.
 
 **-What if I need to cancel my shoot?**
 
@@ -44,7 +44,7 @@ The retainer fee is nonrefundable if you choose to cancel. However, it does appl
 
 **-Do you offer any other packages?**
 
-I try to customize each shoot as much as possible for you and your goals. The packages listed are my main options, but I try to honor requests as much as possible. If you are looking for something you don't see, feel free to send me a message! 
+I try to customize each shoot as much as possible for you and your goals. The packages listed are my main options, but I try to honor requests as much as possible. If you are looking for something you don't see, feel free to send me a message!
 
 **-Can I buy prints of my photos?**
 
