@@ -3,6 +3,7 @@
   command = "npx tinacms build && cd exampleSite && hugo --gc --minify --themesDir ../.."
   
 [build.environment]
+  NODE_VERSION = "22.23.3"
   HUGO_VERSION = "0.73.0"
   HUGO_THEME = "repo"
   HUGO_BASEURL = "/"
